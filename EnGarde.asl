@@ -1,6 +1,6 @@
 state("EnGarde-Win64-Shipping")
 {
-	bool loading : 0x074CD9B0, 0x10, 0x8, 0x158, 0xF8;
+	bool loading : 0x074BF4D0, 0x108, 0x78;
 }
 
 startup
